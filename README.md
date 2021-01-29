@@ -5,6 +5,7 @@ How to set up and run TensorFlow 2.4 with CUDA 11.2 GPU-acceleration on PPI, usi
 module load Python-devel/3.8.7-TF2.4.1
 
 pip3 install --user matplotlib
+
 pip3 install --user seaborn
 
 export PATH=/home/martinls/.local/bin:$PATH
